@@ -1,0 +1,17 @@
+.skill-graph {
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  
+  .graph {
+    text-align: center;
+    width: 90vw;
+    height: 10px;
+    background-color: #eaeaea;
+  }
+  
+  .progress {
+    height: 100%;
+    background-color: #1f7a7a;
+  }
+  
