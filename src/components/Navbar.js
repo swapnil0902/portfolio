@@ -22,7 +22,7 @@ const Navbar = () => {
 
   return (
     <div className={color ? "header header-bg" : "header"}>
-        <Link to="/">
+        <Link to="#home">
             <img className="logo" src = {Logo} alt = "IntroImg" />
         </Link>
         <ul className={click ? "nav-men active": "nav-men"}>
