@@ -27,6 +27,12 @@
 
 .about .bottom p{
     text-align: center;
-    margin: 0 3rem;
+    margin-left: 3%;
     padding: 1rem;
+}
+
+@media screen and (max-width:640px) {
+    .about .bottom p{
+        margin-left: 2%;
+    }   
 }
