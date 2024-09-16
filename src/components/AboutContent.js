@@ -18,10 +18,10 @@ const AboutContent = () => {
                 <div >
                     <p>
                     <SkillGraph language="C/C++" percentage={85} />
-                    <SkillGraph language="Python" percentage={55} />
-                    <SkillGraph language="DBMS (SQL)" percentage={60} />
-                    <SkillGraph language="Front End" percentage={70} />
-                    <SkillGraph language="Back End" percentage={40} />
+                    <SkillGraph language="Python" percentage={70} />
+                    <SkillGraph language="DBMS (SQL)" percentage={65} />
+                    <SkillGraph language="Front End" percentage={50} />
+                    <SkillGraph language="Back End" percentage={80} />
                     <SkillGraph language="Java" percentage={50} />
                     </p>
                 </div>
