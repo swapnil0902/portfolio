@@ -17,7 +17,7 @@ const AboutContent = () => {
             <div className="bottom">
                 <div >
                     <p>
-                    <SkillGraph language="C/C++" percentage={85} />
+                    <SkillGraph language="C/C++" percentage={75} />
                     <SkillGraph language="Python" percentage={70} />
                     <SkillGraph language="DBMS (SQL)" percentage={65} />
                     <SkillGraph language="Front End" percentage={50} />
